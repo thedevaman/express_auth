@@ -1,0 +1,37 @@
+[
+  {
+    "fullname": "rahul",
+    "email": "rahul@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "fullname": "test",
+    "email": "test@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "fullname": "aman",
+    "email": "aman@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "fullname": "rajat",
+    "email": "rajat@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "fullname": "test",
+    "email": "test@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "fullname": "test",
+    "email": "test@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "fullname": "Ram Singh",
+    "email": "ram@gmail.com",
+    "password": "12345678"
+  }
+]
